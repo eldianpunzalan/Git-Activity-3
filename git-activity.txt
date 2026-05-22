@@ -1,3 +1,5 @@
 This is my first Git activity.
 
 New information.
+
+Modified in GitHub.
